@@ -9,4 +9,4 @@
 #JCole {width: 200px;}
 #Rap {width: 200px;}
 body {background-color: rgb(153, 204, 255);}
-body {background-image: <img src="background.png">;}
+body {background-image: url(background.png);}

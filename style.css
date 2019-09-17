@@ -1,7 +1,7 @@
 #nav-table {width: 800px;}
-#Saif-Bio {width: 800px;}
-#Saif-Apps {width: 800px;}
-#Saif-Javascript {width: 800px;}
+#Saif-Bio {width: 800px; color: white;}
+#Saif-Apps {width: 800px; color: white;}
+#Saif-Javascript {width: 800px; color: white}
 #Saif-Home {width: 800px;}
 #photo-table {width: 800px;}
 #Saif1 {width: 200px;}
@@ -10,3 +10,11 @@
 #Rap {width: 200px;}
 body {background-color: rgb(153, 204, 255);}
 body {background-image: url(background.png);}
+#about1 {color: white;}
+#about2 {color: white;}
+#index1 {color: white;}
+#index2 {color: white;}
+#apps1 {color: white;}
+#apps2 {color: white;}
+#javascript1 {color: white;}
+#javascript2 {color: white;}

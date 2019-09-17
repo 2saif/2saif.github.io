@@ -2,14 +2,14 @@
 #Saif-Bio {width: 800px; color: white;}
 #Saif-Apps {width: 800px; color: white;}
 #Saif-Javascript {width: 800px; color: white}
-#Saif-Home {width: 800px;}
+#Saif-Home {width: 800px; color: white}
 #photo-table {width: 800px;}
 #Saif1 {width: 200px;}
 #Saif2 {width: 200px;}
 #JCole {width: 200px;}
 #Rap {width: 200px;}
 body {background-color: rgb(153, 204, 255);}
-body {background-image: url(background.png);}
+body {background-image: url(background.png); width: 2000px;}
 #about1 {color: white;}
 #about2 {color: white;}
 #index1 {color: white;}
